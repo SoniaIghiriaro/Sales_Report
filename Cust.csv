@@ -1,0 +1,999 @@
+Customer_ID,Marital Status,Gender,Age,Miles Earned ,Travelling Class,Journey,Customer_Country
+1001,m,m,32,6134,Busniess Class,Multi-City,United Kingdom
+1002,m,m,29,7760,Premium Economy,Return,Germany
+1003,s,m,29,7718,Busniess Class,Multi-City,Spain
+1004,m,f,55,7585,Premium Economy,One Way,Spain
+1005,s,f,48,6830,Busniess Class,Return,Germany
+1006,s,m,23,5603,Busniess Class,One Way,France
+1007,s,m,43,5867,Economy,One Way,United Kingdom
+1008,s,m,20,5913,Premium Economy,Multi-City,Germany
+1009,m,f,46,5643,Economy,Return,Germany
+1010,s,f,20,6441,Busniess Class,Multi-City,Italy
+1011,m,m,31,7028,Economy,One Way,France
+1012,s,f,21,6025,Economy,One Way,France
+1013,s,m,49,5596,Economy,Return,Germany
+1014,s,m,67,6611,Premium Economy,Return,Spain
+1015,s,m,52,6412,Economy,Multi-City,Germany
+1016,m,m,59,6738,Economy,One Way,Spain
+1017,m,m,29,7315,Premium Economy,Return,Italy
+1018,s,m,42,5754,Economy,One Way,Spain
+1019,s,f,46,5478,Premium Economy,One Way,Italy
+1020,m,f,31,5514,Busniess Class,One Way,Spain
+1021,m,m,20,6402,Busniess Class,One Way,Germany
+1022,s,m,66,6701,Busniess Class,Return,France
+1023,s,m,70,6786,Economy,One Way,United Kingdom
+1024,m,f,38,5670,Economy,One Way,France
+1025,s,f,60,7540,Premium Economy,Multi-City,Italy
+1026,m,f,30,7542,Premium Economy,Return,France
+1027,s,m,22,7998,Busniess Class,Multi-City,Spain
+1028,m,m,25,7423,Premium Economy,Multi-City,France
+1029,m,f,58,6477,Economy,Multi-City,Italy
+1030,s,f,20,6682,Economy,Return,Germany
+1031,s,f,53,6897,Premium Economy,Multi-City,United Kingdom
+1032,m,f,47,5302,Busniess Class,Return,Spain
+1033,m,f,24,5112,Economy,Multi-City,Germany
+1034,s,f,50,7153,Busniess Class,One Way,Italy
+1035,m,f,31,7675,Premium Economy,Return,Spain
+1036,m,f,68,6071,Economy,One Way,France
+1037,s,m,56,7676,Economy,Multi-City,Germany
+1038,s,m,37,5085,Economy,Multi-City,Spain
+1039,s,m,20,5258,Economy,Multi-City,Italy
+1040,m,f,37,7558,Busniess Class,One Way,Italy
+1041,s,f,34,6425,Busniess Class,Multi-City,France
+1042,m,m,48,7906,Premium Economy,One Way,France
+1043,m,m,45,7909,Economy,One Way,Germany
+1044,m,m,28,5249,Busniess Class,One Way,Germany
+1045,s,m,62,5003,Economy,Multi-City,United Kingdom
+1046,s,f,55,6763,Busniess Class,One Way,Italy
+1047,s,m,51,7867,Busniess Class,One Way,Germany
+1048,m,m,43,7340,Premium Economy,Return,Germany
+1049,s,f,42,5431,Economy,Return,United Kingdom
+1050,s,f,24,7050,Busniess Class,Return,United Kingdom
+1051,s,f,45,6252,Economy,Multi-City,Italy
+1052,m,m,58,5525,Busniess Class,Multi-City,United Kingdom
+1053,s,m,48,5699,Busniess Class,Return,Italy
+1054,m,m,27,6482,Busniess Class,One Way,France
+1055,s,m,45,5131,Busniess Class,Multi-City,France
+1056,s,f,26,6091,Premium Economy,Return,Italy
+1057,s,m,39,6221,Premium Economy,Return,France
+1058,s,m,24,7332,Premium Economy,Multi-City,United Kingdom
+1059,m,m,59,6767,Busniess Class,Multi-City,United Kingdom
+1060,m,m,20,5182,Premium Economy,One Way,Germany
+1061,m,f,42,6795,Economy,Multi-City,United Kingdom
+1062,m,m,66,5201,Economy,One Way,Germany
+1063,s,m,62,6349,Premium Economy,Return,Italy
+1064,m,m,32,7506,Busniess Class,One Way,Italy
+1065,m,f,29,6948,Economy,One Way,Germany
+1066,m,f,31,5949,Premium Economy,Return,United Kingdom
+1067,s,m,55,7679,Premium Economy,Return,Germany
+1068,m,m,49,7580,Premium Economy,Multi-City,Spain
+1069,s,m,65,5026,Premium Economy,One Way,Spain
+1070,m,m,28,5291,Economy,Return,Italy
+1071,m,f,29,5092,Premium Economy,Multi-City,France
+1072,m,m,63,5754,Premium Economy,One Way,United Kingdom
+1073,s,m,35,6422,Busniess Class,Multi-City,Germany
+1074,s,f,41,6168,Economy,One Way,Germany
+1075,s,f,54,6143,Busniess Class,Return,United Kingdom
+1076,s,f,58,6354,Busniess Class,Multi-City,Germany
+1077,s,m,69,7200,Economy,Return,Italy
+1078,s,m,39,7186,Economy,Multi-City,Italy
+1079,s,m,36,7562,Economy,One Way,United Kingdom
+1080,s,f,20,5741,Premium Economy,One Way,Spain
+1081,m,f,20,6593,Economy,Multi-City,Italy
+1082,m,m,27,6527,Premium Economy,Multi-City,France
+1083,m,f,56,7776,Busniess Class,One Way,Italy
+1084,m,m,69,7014,Busniess Class,Multi-City,Germany
+1085,m,f,21,6537,Premium Economy,Multi-City,France
+1086,s,f,44,7182,Premium Economy,Multi-City,Spain
+1087,m,f,29,7791,Economy,Multi-City,Germany
+1088,m,m,42,6694,Premium Economy,Multi-City,Spain
+1089,s,f,50,7192,Busniess Class,Return,United Kingdom
+1090,s,m,58,7282,Economy,Multi-City,France
+1091,s,m,31,6350,Premium Economy,Multi-City,United Kingdom
+1092,m,m,62,5659,Busniess Class,One Way,France
+1093,m,m,58,6199,Economy,Multi-City,Germany
+1094,m,m,45,6117,Economy,Multi-City,France
+1095,s,m,65,6021,Busniess Class,Return,France
+1096,m,m,23,7800,Premium Economy,Return,Spain
+1097,s,f,28,6123,Economy,One Way,United Kingdom
+1098,s,f,23,5086,Economy,One Way,Germany
+1099,m,m,43,6425,Premium Economy,One Way,Italy
+1100,s,m,50,5725,Busniess Class,Multi-City,United Kingdom
+1101,s,f,25,7292,Busniess Class,Return,Italy
+1102,m,f,52,6040,Busniess Class,Return,United Kingdom
+1103,m,f,65,6407,Premium Economy,Multi-City,Germany
+1104,m,f,62,6025,Premium Economy,Multi-City,Italy
+1105,m,f,22,6568,Premium Economy,Multi-City,Italy
+1106,m,m,37,5919,Busniess Class,One Way,Italy
+1107,s,m,39,5978,Busniess Class,Multi-City,Italy
+1108,s,m,36,6336,Premium Economy,One Way,France
+1109,s,m,41,7225,Economy,One Way,United Kingdom
+1110,s,m,62,5707,Busniess Class,Multi-City,Spain
+1111,m,m,65,5319,Economy,Multi-City,Germany
+1112,s,f,62,7337,Premium Economy,One Way,United Kingdom
+1113,s,f,61,5098,Busniess Class,Multi-City,Germany
+1114,m,f,36,6312,Economy,Multi-City,France
+1115,m,f,34,6523,Premium Economy,One Way,Spain
+1116,m,m,36,6801,Premium Economy,Multi-City,United Kingdom
+1117,s,m,23,6982,Economy,One Way,Spain
+1118,s,f,53,5058,Premium Economy,Multi-City,Germany
+1119,m,m,54,7913,Busniess Class,Multi-City,Italy
+1120,m,m,46,6330,Economy,Return,Spain
+1121,s,f,24,7391,Busniess Class,One Way,Spain
+1122,s,f,64,5002,Busniess Class,Return,France
+1123,m,m,51,6262,Premium Economy,Return,Spain
+1124,s,f,43,7894,Premium Economy,Return,Italy
+1125,m,m,67,7433,Busniess Class,One Way,United Kingdom
+1126,s,f,42,6726,Premium Economy,One Way,Spain
+1127,m,m,48,7740,Premium Economy,One Way,France
+1128,m,f,32,6755,Economy,Multi-City,Germany
+1129,m,f,53,7158,Premium Economy,Return,United Kingdom
+1130,s,m,52,5593,Busniess Class,One Way,Spain
+1131,m,m,23,5915,Premium Economy,Multi-City,France
+1132,s,f,23,7298,Premium Economy,One Way,Spain
+1133,s,f,21,6252,Busniess Class,Return,France
+1134,m,m,36,7828,Economy,One Way,Spain
+1135,s,m,37,5738,Economy,Multi-City,United Kingdom
+1136,m,f,49,5162,Premium Economy,Multi-City,Spain
+1137,m,f,49,7504,Economy,Return,Italy
+1138,s,m,42,7836,Economy,One Way,Germany
+1139,m,f,34,5761,Economy,One Way,Germany
+1140,s,m,38,5861,Economy,Multi-City,Spain
+1141,m,f,35,5314,Premium Economy,One Way,United Kingdom
+1142,m,f,30,5524,Premium Economy,One Way,United Kingdom
+1143,m,m,51,5107,Premium Economy,One Way,Spain
+1144,s,f,35,5096,Premium Economy,One Way,Italy
+1145,s,m,70,6434,Premium Economy,Multi-City,France
+1146,m,f,69,5995,Premium Economy,One Way,Germany
+1147,m,f,29,6872,Economy,Multi-City,Germany
+1148,s,m,50,5244,Economy,One Way,Germany
+1149,s,m,63,6968,Economy,Return,Italy
+1150,s,m,20,6258,Economy,Multi-City,Spain
+1151,m,m,67,6359,Economy,Return,Spain
+1152,s,f,35,5652,Economy,Multi-City,Spain
+1153,m,f,49,7768,Economy,Return,Germany
+1154,m,f,39,5355,Economy,Return,Spain
+1155,s,m,65,5473,Premium Economy,Return,Germany
+1156,s,f,49,6500,Economy,Multi-City,Spain
+1157,s,m,61,6571,Busniess Class,Multi-City,United Kingdom
+1158,s,m,38,5776,Economy,Multi-City,Italy
+1159,s,m,41,7221,Premium Economy,One Way,France
+1160,s,m,55,5582,Economy,One Way,Italy
+1161,m,f,66,7285,Busniess Class,Return,Germany
+1162,m,m,66,6420,Busniess Class,Multi-City,Italy
+1163,m,m,20,5429,Busniess Class,One Way,United Kingdom
+1164,s,m,33,5701,Premium Economy,Multi-City,Spain
+1165,s,f,65,7657,Busniess Class,One Way,Italy
+1166,s,f,22,7785,Premium Economy,Multi-City,Germany
+1167,s,m,64,5502,Economy,Multi-City,France
+1168,s,f,30,6353,Busniess Class,One Way,United Kingdom
+1169,s,m,48,7392,Premium Economy,One Way,France
+1170,s,m,32,5801,Busniess Class,One Way,France
+1171,s,m,60,6512,Premium Economy,One Way,France
+1172,m,m,26,6272,Premium Economy,Multi-City,Italy
+1173,s,f,32,6054,Busniess Class,Return,Germany
+1174,m,m,49,7641,Premium Economy,One Way,United Kingdom
+1175,s,f,32,7121,Busniess Class,One Way,United Kingdom
+1176,s,m,60,5178,Premium Economy,Return,Spain
+1177,s,m,49,5683,Premium Economy,Multi-City,United Kingdom
+1178,s,m,68,5720,Economy,Multi-City,United Kingdom
+1179,m,f,62,7957,Premium Economy,Multi-City,United Kingdom
+1180,m,m,33,5727,Economy,Multi-City,Germany
+1181,s,m,45,6548,Economy,One Way,Spain
+1182,s,m,65,5365,Busniess Class,Multi-City,Italy
+1183,s,f,24,7596,Economy,Return,Spain
+1184,s,f,34,7105,Busniess Class,Return,France
+1185,s,m,26,7492,Premium Economy,One Way,Spain
+1186,s,f,63,7562,Premium Economy,One Way,Germany
+1187,s,f,44,5486,Economy,Return,France
+1188,s,f,47,7614,Economy,Return,Italy
+1189,s,m,44,5377,Economy,One Way,Spain
+1190,s,f,21,7492,Premium Economy,Return,France
+1191,s,m,27,5722,Economy,Multi-City,France
+1192,m,f,36,5754,Premium Economy,Return,France
+1193,m,f,34,6272,Busniess Class,Multi-City,France
+1194,m,f,37,6616,Economy,Multi-City,United Kingdom
+1195,s,f,21,6701,Economy,Return,Spain
+1196,s,f,59,5329,Busniess Class,Multi-City,Germany
+1197,m,m,68,6934,Economy,One Way,France
+1198,s,m,67,6800,Busniess Class,Multi-City,Spain
+1199,m,f,32,7393,Economy,Return,Italy
+1200,m,f,52,7832,Premium Economy,Multi-City,Spain
+1201,m,m,24,6234,Busniess Class,One Way,Germany
+1202,m,m,36,5155,Premium Economy,One Way,Germany
+1203,s,f,24,6637,Busniess Class,Return,United Kingdom
+1204,m,m,68,7539,Busniess Class,Multi-City,Germany
+1205,s,m,23,7467,Economy,One Way,Spain
+1206,s,f,51,6850,Premium Economy,Multi-City,Italy
+1207,m,m,45,7539,Premium Economy,Multi-City,Germany
+1208,s,f,66,6291,Premium Economy,One Way,France
+1209,s,f,49,5861,Busniess Class,Multi-City,France
+1210,s,m,44,7747,Busniess Class,Multi-City,Germany
+1211,s,f,23,6875,Premium Economy,Multi-City,France
+1212,m,f,33,5370,Premium Economy,Multi-City,Germany
+1213,m,m,62,5367,Busniess Class,Multi-City,Italy
+1214,s,f,58,7376,Economy,One Way,United Kingdom
+1215,m,m,21,7689,Premium Economy,Return,Italy
+1216,s,m,61,6222,Premium Economy,Return,Italy
+1217,m,f,69,6298,Premium Economy,Return,Germany
+1218,m,f,38,5392,Busniess Class,One Way,Italy
+1219,s,f,50,7068,Premium Economy,One Way,United Kingdom
+1220,s,f,33,5099,Premium Economy,One Way,Italy
+1221,s,f,39,5788,Economy,Return,Spain
+1222,s,m,62,5381,Economy,Multi-City,Italy
+1223,m,m,59,7711,Economy,Multi-City,Spain
+1224,s,m,53,6824,Premium Economy,Return,United Kingdom
+1225,s,f,44,5911,Busniess Class,Return,United Kingdom
+1226,s,m,50,7812,Busniess Class,Multi-City,Germany
+1227,m,m,22,7293,Premium Economy,One Way,Spain
+1228,s,m,28,7367,Premium Economy,Multi-City,Italy
+1229,s,m,25,7613,Economy,Return,United Kingdom
+1230,m,m,32,5333,Economy,One Way,Italy
+1231,m,m,63,5963,Busniess Class,Multi-City,United Kingdom
+1232,m,f,42,5723,Premium Economy,Return,France
+1233,s,m,30,5886,Premium Economy,Return,Italy
+1234,s,m,51,5769,Premium Economy,Return,Germany
+1235,m,f,70,6880,Busniess Class,Return,Germany
+1236,s,m,31,6534,Busniess Class,One Way,Italy
+1237,m,m,47,7582,Premium Economy,Return,Italy
+1238,s,f,70,6824,Busniess Class,Return,Italy
+1239,s,f,21,7615,Economy,Return,Germany
+1240,s,m,34,6179,Economy,One Way,Spain
+1241,s,m,32,6310,Economy,Return,Spain
+1242,m,m,40,7038,Busniess Class,One Way,United Kingdom
+1243,s,m,27,6803,Economy,One Way,Germany
+1244,s,f,53,6700,Economy,Multi-City,Germany
+1245,m,m,52,7855,Economy,Return,Italy
+1246,s,m,33,6215,Economy,Multi-City,Germany
+1247,m,f,67,5516,Busniess Class,Multi-City,Italy
+1248,s,m,29,7823,Busniess Class,One Way,United Kingdom
+1249,s,m,38,6741,Premium Economy,Return,France
+1250,s,f,47,5647,Busniess Class,Multi-City,Germany
+1251,m,f,28,6904,Economy,Multi-City,Italy
+1252,s,f,63,7608,Busniess Class,Return,Germany
+1253,s,f,54,5797,Economy,Return,Germany
+1254,m,f,59,7880,Premium Economy,Return,France
+1255,s,f,48,6824,Economy,One Way,United Kingdom
+1256,s,f,32,7978,Economy,Multi-City,Italy
+1257,s,f,61,7407,Economy,Multi-City,Italy
+1258,s,m,54,5254,Busniess Class,Return,France
+1259,m,f,57,5865,Economy,One Way,United Kingdom
+1260,m,m,55,6474,Busniess Class,Return,France
+1261,s,f,52,5758,Premium Economy,Multi-City,Germany
+1262,m,m,45,7053,Busniess Class,One Way,Germany
+1263,m,m,20,7876,Premium Economy,One Way,Italy
+1264,m,m,32,7956,Economy,Multi-City,France
+1265,m,f,21,6257,Economy,Multi-City,France
+1266,s,m,35,7556,Premium Economy,One Way,United Kingdom
+1267,s,f,61,6169,Economy,One Way,Italy
+1268,m,m,38,5277,Premium Economy,Return,Spain
+1269,s,f,61,6002,Busniess Class,Return,United Kingdom
+1270,m,m,30,5961,Economy,Return,Spain
+1271,m,f,50,6484,Busniess Class,One Way,United Kingdom
+1272,m,f,28,6370,Busniess Class,Return,Spain
+1273,m,f,30,5590,Economy,Return,Germany
+1274,s,m,51,7177,Premium Economy,One Way,Italy
+1275,m,f,55,6284,Economy,Multi-City,France
+1276,s,m,21,7949,Economy,Return,Italy
+1277,s,f,21,7978,Economy,One Way,Germany
+1278,m,f,27,7510,Economy,One Way,Italy
+1279,s,m,68,7034,Premium Economy,One Way,Italy
+1280,m,m,31,6210,Busniess Class,One Way,Italy
+1281,m,f,54,6945,Premium Economy,Return,France
+1282,m,m,27,5906,Economy,Return,United Kingdom
+1283,m,f,60,5776,Premium Economy,Multi-City,Germany
+1284,s,m,29,6596,Premium Economy,Multi-City,Spain
+1285,m,m,54,5267,Premium Economy,Multi-City,France
+1286,m,f,31,5470,Premium Economy,One Way,Spain
+1287,m,f,45,6664,Busniess Class,One Way,United Kingdom
+1288,m,f,44,5454,Economy,Return,Spain
+1289,m,f,60,6718,Busniess Class,Multi-City,Italy
+1290,m,m,58,6090,Busniess Class,One Way,France
+1291,m,f,22,6381,Economy,One Way,United Kingdom
+1292,s,f,29,6411,Busniess Class,Multi-City,France
+1293,s,f,53,6710,Premium Economy,One Way,United Kingdom
+1294,m,f,45,7762,Economy,Multi-City,Italy
+1295,m,m,27,6745,Economy,Return,France
+1296,s,f,31,6412,Economy,Multi-City,Spain
+1297,m,m,54,7826,Busniess Class,One Way,Italy
+1298,s,f,70,7196,Economy,Multi-City,Germany
+1299,m,m,23,5612,Busniess Class,One Way,Spain
+1300,m,f,52,5084,Economy,One Way,United Kingdom
+1301,m,m,28,7743,Premium Economy,One Way,United Kingdom
+1302,m,m,51,6297,Economy,Multi-City,Italy
+1303,s,f,34,7095,Economy,Return,United Kingdom
+1304,m,m,51,5985,Premium Economy,One Way,United Kingdom
+1305,m,f,64,7616,Economy,One Way,Italy
+1306,s,m,44,7799,Premium Economy,One Way,Italy
+1307,m,m,28,6569,Busniess Class,Multi-City,France
+1308,s,m,61,5139,Premium Economy,One Way,Spain
+1309,m,m,39,5746,Economy,Return,Spain
+1310,m,m,46,5666,Busniess Class,Multi-City,United Kingdom
+1311,s,f,62,6188,Economy,One Way,Germany
+1312,m,f,46,5729,Economy,Return,Spain
+1313,m,m,66,5203,Economy,One Way,Italy
+1314,m,m,42,6957,Premium Economy,One Way,United Kingdom
+1315,s,m,62,7738,Premium Economy,Return,Germany
+1316,m,f,44,6850,Premium Economy,Multi-City,France
+1317,m,m,59,5876,Premium Economy,Return,France
+1318,m,f,64,7839,Premium Economy,One Way,Germany
+1319,m,m,46,6096,Premium Economy,One Way,Germany
+1320,m,f,53,6370,Busniess Class,Return,United Kingdom
+1321,s,f,63,6409,Busniess Class,Return,Germany
+1322,m,m,33,5257,Premium Economy,Return,Spain
+1323,m,m,30,7650,Premium Economy,Multi-City,France
+1324,s,f,66,5161,Busniess Class,Multi-City,Germany
+1325,m,f,60,7616,Economy,One Way,Germany
+1326,m,f,43,6765,Busniess Class,Return,France
+1327,m,m,64,7100,Busniess Class,Return,France
+1328,s,f,61,5513,Economy,Return,Italy
+1329,m,f,58,5665,Busniess Class,One Way,France
+1330,m,m,51,7601,Busniess Class,Return,Spain
+1331,m,f,26,5973,Busniess Class,One Way,United Kingdom
+1332,s,m,44,6220,Premium Economy,Return,Spain
+1333,s,f,65,7240,Economy,One Way,Spain
+1334,s,f,36,6249,Premium Economy,Multi-City,France
+1335,m,m,57,6912,Economy,Multi-City,United Kingdom
+1336,s,f,48,6873,Economy,Return,Spain
+1337,s,f,70,5980,Busniess Class,Return,Germany
+1338,m,f,55,5676,Busniess Class,Multi-City,Spain
+1339,m,m,27,5089,Busniess Class,Multi-City,Spain
+1340,m,m,63,6806,Economy,Return,France
+1341,m,f,21,5641,Premium Economy,Return,Spain
+1342,s,m,38,6348,Busniess Class,One Way,Spain
+1343,s,m,44,7675,Premium Economy,One Way,Germany
+1344,m,f,22,5346,Busniess Class,One Way,Italy
+1345,s,f,47,5761,Economy,Multi-City,Spain
+1346,m,f,56,6232,Busniess Class,Multi-City,Italy
+1347,s,m,60,7470,Premium Economy,One Way,Italy
+1348,s,m,55,6839,Premium Economy,One Way,France
+1349,s,f,53,6727,Busniess Class,One Way,Spain
+1350,s,f,24,7488,Premium Economy,One Way,United Kingdom
+1351,s,f,68,6943,Premium Economy,Return,Spain
+1352,s,f,28,6310,Busniess Class,Multi-City,Spain
+1353,m,f,40,6549,Premium Economy,Multi-City,Italy
+1354,m,f,36,7108,Premium Economy,One Way,Germany
+1355,m,f,22,7291,Busniess Class,Multi-City,Germany
+1356,m,f,22,6924,Economy,Multi-City,Italy
+1357,s,f,33,6495,Busniess Class,Multi-City,Italy
+1358,s,f,66,7958,Economy,Multi-City,Germany
+1359,m,f,49,5039,Busniess Class,Multi-City,Italy
+1360,s,f,47,7982,Economy,One Way,United Kingdom
+1361,m,f,56,5780,Busniess Class,Multi-City,Italy
+1362,s,m,69,6675,Premium Economy,Multi-City,Germany
+1363,m,m,40,7044,Busniess Class,One Way,Spain
+1364,s,m,52,7709,Economy,Return,Italy
+1365,m,m,66,7523,Busniess Class,Multi-City,Spain
+1366,s,f,28,7900,Premium Economy,One Way,Italy
+1367,s,f,27,5514,Busniess Class,Multi-City,United Kingdom
+1368,s,f,39,6848,Premium Economy,Multi-City,France
+1369,s,m,59,5321,Premium Economy,Multi-City,Germany
+1370,s,m,46,5786,Busniess Class,One Way,Germany
+1371,s,f,45,6253,Busniess Class,One Way,Italy
+1372,s,m,34,5019,Economy,Multi-City,United Kingdom
+1373,m,f,59,6042,Busniess Class,Multi-City,Germany
+1374,m,m,41,5026,Busniess Class,Return,Germany
+1375,m,f,23,7318,Premium Economy,Return,United Kingdom
+1376,m,m,61,5090,Premium Economy,One Way,United Kingdom
+1377,s,m,24,7984,Premium Economy,Multi-City,Spain
+1378,m,f,28,6870,Busniess Class,Multi-City,France
+1379,s,f,35,6169,Busniess Class,Return,France
+1380,m,m,54,6417,Economy,Multi-City,Spain
+1381,s,m,68,6986,Busniess Class,Return,Italy
+1382,s,f,33,6631,Busniess Class,Multi-City,Italy
+1383,s,f,70,7134,Economy,Multi-City,Italy
+1384,s,f,22,5825,Busniess Class,Return,Italy
+1385,s,m,66,5438,Economy,Multi-City,Germany
+1386,m,m,57,7503,Busniess Class,One Way,France
+1387,s,f,62,6440,Economy,Return,Spain
+1388,m,f,58,5710,Economy,Multi-City,France
+1389,s,f,56,7421,Busniess Class,One Way,France
+1390,s,f,69,5608,Busniess Class,One Way,Germany
+1391,s,f,57,7440,Busniess Class,Multi-City,Germany
+1392,m,f,40,5764,Premium Economy,One Way,Italy
+1393,s,f,30,7104,Premium Economy,One Way,France
+1394,s,m,29,5843,Economy,Multi-City,Italy
+1395,m,m,25,5878,Busniess Class,Return,United Kingdom
+1396,s,m,46,6746,Busniess Class,Return,Italy
+1397,m,f,31,7570,Economy,Return,Germany
+1398,s,m,51,5024,Busniess Class,Return,Spain
+1399,m,m,63,5459,Busniess Class,Multi-City,Italy
+1400,m,f,21,7342,Economy,Multi-City,Spain
+1401,m,f,51,6580,Economy,Multi-City,United Kingdom
+1402,s,m,68,7618,Busniess Class,One Way,Italy
+1403,s,f,31,6852,Premium Economy,Multi-City,France
+1404,s,f,25,7308,Economy,Return,Italy
+1405,m,m,58,7679,Economy,Return,United Kingdom
+1406,m,f,63,6037,Premium Economy,Return,Italy
+1407,s,m,62,7884,Economy,Return,United Kingdom
+1408,m,f,59,7955,Busniess Class,Return,Italy
+1409,s,m,54,7633,Busniess Class,One Way,United Kingdom
+1410,m,f,68,5598,Economy,Return,Italy
+1411,s,f,50,7529,Premium Economy,Return,Germany
+1412,m,m,64,6664,Economy,Multi-City,Germany
+1413,s,f,70,5150,Economy,Multi-City,United Kingdom
+1414,s,m,22,5048,Busniess Class,Return,United Kingdom
+1415,s,m,66,6301,Busniess Class,Multi-City,France
+1416,s,m,56,6553,Premium Economy,Multi-City,Italy
+1417,s,m,38,5011,Economy,Multi-City,Germany
+1418,m,f,28,7278,Busniess Class,Multi-City,Germany
+1419,s,f,25,6004,Economy,Return,United Kingdom
+1420,m,f,33,5013,Economy,One Way,Germany
+1421,s,f,33,6547,Economy,Multi-City,Germany
+1422,s,m,25,7508,Premium Economy,Multi-City,Spain
+1423,m,m,38,6244,Busniess Class,One Way,Italy
+1424,s,m,68,7851,Economy,Return,Spain
+1425,m,f,28,7197,Economy,One Way,United Kingdom
+1426,m,f,38,5622,Economy,Return,United Kingdom
+1427,m,f,43,6106,Busniess Class,Multi-City,United Kingdom
+1428,s,f,25,7041,Economy,One Way,United Kingdom
+1429,s,f,65,6200,Economy,Return,France
+1430,m,f,33,6642,Busniess Class,Multi-City,Spain
+1431,m,m,70,7268,Busniess Class,Return,France
+1432,m,m,70,6875,Busniess Class,One Way,Spain
+1433,s,m,63,5215,Busniess Class,Return,Germany
+1434,m,m,30,5581,Busniess Class,Multi-City,Spain
+1435,m,f,69,5565,Economy,One Way,Spain
+1436,m,f,64,6309,Busniess Class,Multi-City,United Kingdom
+1437,m,m,28,7822,Economy,Return,Spain
+1438,m,m,60,7426,Premium Economy,Multi-City,Germany
+1439,m,f,29,5041,Busniess Class,Return,Germany
+1440,s,f,61,5377,Busniess Class,Return,Italy
+1441,s,m,50,7554,Busniess Class,One Way,France
+1442,s,m,60,7893,Busniess Class,Return,United Kingdom
+1443,m,f,52,6802,Busniess Class,Return,United Kingdom
+1444,s,f,41,6616,Busniess Class,Return,United Kingdom
+1445,m,f,48,7037,Economy,One Way,Germany
+1446,s,m,34,7018,Busniess Class,Multi-City,Germany
+1447,s,m,44,5967,Economy,One Way,France
+1448,s,m,52,7408,Economy,Return,Italy
+1449,s,m,40,6285,Busniess Class,One Way,France
+1450,m,f,69,7000,Economy,Multi-City,Italy
+1451,s,f,56,6527,Premium Economy,One Way,France
+1452,s,f,40,7996,Premium Economy,One Way,Italy
+1453,s,f,38,5048,Economy,Return,Spain
+1454,s,f,40,6679,Premium Economy,Multi-City,Italy
+1455,m,m,48,5645,Economy,Multi-City,Italy
+1456,m,f,43,7528,Busniess Class,Return,Germany
+1457,s,f,40,6777,Busniess Class,One Way,Spain
+1458,m,m,23,7774,Economy,Return,France
+1459,s,m,57,5217,Economy,Multi-City,Spain
+1460,s,m,42,5189,Busniess Class,One Way,France
+1461,s,m,33,6013,Economy,Multi-City,United Kingdom
+1462,m,f,50,5937,Premium Economy,Multi-City,France
+1463,s,m,64,6965,Busniess Class,Return,United Kingdom
+1464,m,m,56,6928,Busniess Class,Multi-City,Italy
+1465,s,m,59,5838,Premium Economy,One Way,Italy
+1466,s,m,59,6670,Busniess Class,Multi-City,Italy
+1467,s,f,43,7654,Busniess Class,Return,France
+1468,s,f,42,6212,Premium Economy,Multi-City,Spain
+1469,m,f,28,6795,Premium Economy,Multi-City,Germany
+1470,s,f,62,7749,Premium Economy,Return,France
+1471,m,m,63,7420,Busniess Class,Multi-City,Germany
+1472,s,f,27,7941,Premium Economy,Multi-City,Germany
+1473,s,f,31,7659,Busniess Class,One Way,United Kingdom
+1474,s,f,31,5001,Economy,Multi-City,United Kingdom
+1475,s,f,49,7925,Busniess Class,Return,Italy
+1476,s,m,32,6736,Busniess Class,Return,United Kingdom
+1477,s,m,36,7106,Economy,One Way,France
+1478,s,m,23,6165,Busniess Class,Multi-City,Spain
+1479,m,f,55,7224,Economy,Multi-City,France
+1480,m,m,20,7363,Premium Economy,One Way,United Kingdom
+1481,s,f,40,6097,Busniess Class,Return,Spain
+1482,m,f,58,7625,Premium Economy,One Way,Italy
+1483,m,m,50,5873,Busniess Class,One Way,France
+1484,s,f,60,7425,Busniess Class,Multi-City,Spain
+1485,s,m,29,6295,Economy,Multi-City,Germany
+1486,m,f,55,6743,Premium Economy,Return,United Kingdom
+1487,s,f,66,7547,Premium Economy,Return,United Kingdom
+1488,s,m,34,7438,Economy,Return,United Kingdom
+1489,m,m,56,6751,Premium Economy,One Way,Italy
+1490,m,f,70,7967,Economy,One Way,Spain
+1491,s,m,43,7732,Premium Economy,Multi-City,Germany
+1492,s,f,53,7018,Premium Economy,Return,Spain
+1493,s,m,37,6248,Busniess Class,Multi-City,Spain
+1494,s,f,56,6175,Busniess Class,Multi-City,Spain
+1495,m,f,55,5523,Busniess Class,Multi-City,Germany
+1496,s,f,21,5428,Busniess Class,One Way,Spain
+1497,s,f,25,7123,Premium Economy,Return,United Kingdom
+1498,s,f,61,6917,Economy,Multi-City,United Kingdom
+1499,m,f,20,6963,Busniess Class,Multi-City,Spain
+1500,m,f,31,5683,Premium Economy,Multi-City,France
+1501,s,m,48,5700,Busniess Class,Multi-City,Spain
+1502,s,f,53,6319,Premium Economy,Multi-City,Spain
+1503,s,m,41,7662,Busniess Class,One Way,United Kingdom
+1504,s,m,56,5513,Premium Economy,Multi-City,France
+1505,m,m,62,7124,Busniess Class,One Way,Spain
+1506,m,f,46,7990,Economy,One Way,France
+1507,m,m,29,5109,Economy,Return,Spain
+1508,s,m,54,5057,Economy,Multi-City,Germany
+1509,s,m,31,7835,Busniess Class,One Way,Italy
+1510,s,m,57,5423,Premium Economy,One Way,Italy
+1511,m,f,69,7297,Economy,Return,Spain
+1512,s,f,28,7637,Economy,Multi-City,France
+1513,s,m,50,7993,Premium Economy,One Way,Germany
+1514,s,f,40,7509,Economy,Return,United Kingdom
+1515,s,m,63,6676,Busniess Class,Multi-City,Spain
+1516,s,f,66,5914,Economy,One Way,Germany
+1517,s,m,31,5137,Busniess Class,Multi-City,Spain
+1518,m,f,60,5573,Busniess Class,One Way,France
+1519,s,m,28,7520,Premium Economy,Multi-City,Germany
+1520,s,f,44,6683,Economy,One Way,United Kingdom
+1521,m,m,43,7892,Economy,Multi-City,France
+1522,m,f,57,6790,Busniess Class,Multi-City,United Kingdom
+1523,s,m,42,7262,Premium Economy,Multi-City,United Kingdom
+1524,m,f,39,5376,Economy,One Way,Italy
+1525,s,f,64,7248,Economy,Return,Spain
+1526,s,f,44,7653,Busniess Class,One Way,Italy
+1527,m,f,28,5815,Busniess Class,One Way,France
+1528,m,f,62,7513,Busniess Class,One Way,France
+1529,m,m,68,7441,Premium Economy,One Way,Germany
+1530,s,m,34,6196,Busniess Class,Return,Germany
+1531,m,m,49,7994,Economy,One Way,United Kingdom
+1532,s,f,51,7697,Premium Economy,Multi-City,France
+1533,m,f,24,7859,Premium Economy,Multi-City,United Kingdom
+1534,m,f,31,7991,Busniess Class,One Way,Spain
+1535,m,m,62,7987,Busniess Class,One Way,United Kingdom
+1536,m,f,48,6869,Premium Economy,One Way,France
+1537,m,m,37,5976,Economy,Multi-City,Spain
+1538,m,f,55,6788,Economy,One Way,Germany
+1539,s,f,53,7001,Economy,One Way,Spain
+1540,m,f,23,5283,Premium Economy,Multi-City,Italy
+1541,m,f,32,6107,Economy,One Way,Germany
+1542,m,m,37,5507,Premium Economy,Return,France
+1543,s,f,43,5756,Economy,Multi-City,Germany
+1544,s,m,58,7250,Economy,Return,Germany
+1545,s,m,48,6280,Economy,Multi-City,Germany
+1546,m,f,27,6592,Premium Economy,One Way,Italy
+1547,s,f,43,6063,Economy,Multi-City,United Kingdom
+1548,s,f,62,7246,Premium Economy,Multi-City,Germany
+1549,s,m,48,7771,Economy,Return,Spain
+1550,s,f,31,6343,Premium Economy,Return,Spain
+1551,m,f,60,5129,Premium Economy,One Way,Italy
+1552,m,f,47,5508,Economy,One Way,Spain
+1553,m,f,48,6796,Economy,One Way,Spain
+1554,s,m,34,5837,Premium Economy,Return,France
+1555,s,m,20,5524,Busniess Class,Multi-City,Italy
+1556,s,f,63,7645,Economy,Return,United Kingdom
+1557,s,f,30,6366,Busniess Class,Return,United Kingdom
+1558,m,f,59,6616,Premium Economy,One Way,France
+1559,m,f,40,6055,Economy,Return,United Kingdom
+1560,m,f,45,5449,Busniess Class,One Way,France
+1561,s,m,26,5956,Premium Economy,Multi-City,Italy
+1562,m,m,23,5987,Economy,Multi-City,Italy
+1563,m,m,36,6121,Busniess Class,Multi-City,United Kingdom
+1564,s,f,40,6930,Busniess Class,Return,France
+1565,s,m,67,6640,Economy,Return,France
+1566,m,f,48,5514,Premium Economy,Multi-City,Italy
+1567,s,f,54,5747,Premium Economy,Multi-City,France
+1568,s,m,46,5413,Busniess Class,One Way,France
+1569,m,m,46,7725,Premium Economy,Multi-City,Germany
+1570,m,f,21,6496,Premium Economy,Return,United Kingdom
+1571,m,m,49,7713,Busniess Class,One Way,Spain
+1572,s,f,21,5659,Busniess Class,Return,Italy
+1573,m,f,61,6968,Premium Economy,Multi-City,France
+1574,s,m,58,5480,Economy,Multi-City,United Kingdom
+1575,s,f,49,7964,Premium Economy,Multi-City,Germany
+1576,s,m,34,5574,Premium Economy,Multi-City,Italy
+1577,m,f,49,7104,Busniess Class,Multi-City,Italy
+1578,s,f,25,7989,Economy,Return,France
+1579,m,f,22,6713,Premium Economy,One Way,United Kingdom
+1580,m,m,32,7625,Premium Economy,One Way,Germany
+1581,s,m,53,7294,Premium Economy,Return,Spain
+1582,m,m,38,6826,Premium Economy,One Way,Italy
+1583,m,f,26,6708,Busniess Class,One Way,United Kingdom
+1584,m,m,48,7395,Busniess Class,One Way,Germany
+1585,m,m,27,5333,Premium Economy,Return,United Kingdom
+1586,s,f,43,7722,Economy,Multi-City,Germany
+1587,s,f,31,7880,Premium Economy,Return,United Kingdom
+1588,m,m,29,7418,Economy,Return,Italy
+1589,m,f,20,7704,Busniess Class,Return,United Kingdom
+1590,m,f,70,7374,Premium Economy,One Way,Spain
+1591,s,f,39,6851,Economy,One Way,Italy
+1592,m,m,25,5746,Busniess Class,One Way,United Kingdom
+1593,s,m,70,6579,Premium Economy,Return,Italy
+1594,m,m,22,6465,Busniess Class,One Way,Italy
+1595,s,m,46,6187,Premium Economy,One Way,United Kingdom
+1596,m,m,53,5161,Economy,Return,Spain
+1597,m,m,39,5770,Economy,Multi-City,Italy
+1598,m,m,57,6998,Premium Economy,One Way,Germany
+1599,s,f,50,7906,Premium Economy,Return,Germany
+1600,m,f,46,5391,Premium Economy,One Way,France
+1601,m,f,63,7212,Premium Economy,Return,Spain
+1602,m,m,31,5881,Economy,Multi-City,Germany
+1603,s,m,58,7489,Premium Economy,Multi-City,France
+1604,s,f,30,7135,Busniess Class,One Way,France
+1605,s,f,22,6582,Busniess Class,Return,France
+1606,m,f,46,6991,Economy,Multi-City,Italy
+1607,m,f,31,5671,Busniess Class,Return,United Kingdom
+1608,s,f,70,7537,Busniess Class,Return,United Kingdom
+1609,m,m,54,7878,Economy,One Way,Italy
+1610,m,m,38,5403,Economy,Return,Germany
+1611,m,m,46,6484,Premium Economy,Multi-City,France
+1612,s,m,54,6257,Economy,Return,Germany
+1613,m,f,50,7222,Premium Economy,Multi-City,France
+1614,m,m,46,5826,Busniess Class,One Way,Spain
+1615,s,m,35,7001,Busniess Class,One Way,France
+1616,s,m,58,7804,Premium Economy,Multi-City,Italy
+1617,s,f,23,7752,Busniess Class,Return,Italy
+1618,s,m,29,7287,Busniess Class,Multi-City,France
+1619,s,m,25,7417,Premium Economy,One Way,Italy
+1620,s,m,56,7544,Premium Economy,Return,United Kingdom
+1621,s,m,28,6002,Busniess Class,Return,France
+1622,m,f,35,7991,Busniess Class,Return,United Kingdom
+1623,s,f,67,6202,Premium Economy,Multi-City,United Kingdom
+1624,m,f,47,7867,Busniess Class,Return,Italy
+1625,s,m,55,7303,Economy,One Way,Germany
+1626,s,f,53,5957,Busniess Class,One Way,Germany
+1627,m,m,36,7803,Economy,Return,Italy
+1628,s,f,33,5393,Economy,Return,France
+1629,s,m,49,6988,Busniess Class,Return,Italy
+1630,s,f,61,7449,Economy,Multi-City,United Kingdom
+1631,m,f,55,6893,Busniess Class,One Way,Germany
+1632,s,f,56,7411,Premium Economy,Return,United Kingdom
+1633,s,m,70,6050,Premium Economy,Return,Italy
+1634,m,m,61,7528,Premium Economy,One Way,France
+1635,s,f,54,5501,Economy,Return,Italy
+1636,s,m,41,6751,Economy,One Way,Germany
+1637,m,f,47,5722,Premium Economy,Return,Germany
+1638,m,m,55,6000,Economy,Multi-City,Italy
+1639,m,m,46,6498,Premium Economy,Multi-City,Germany
+1640,s,m,29,5716,Premium Economy,Multi-City,Spain
+1641,m,f,60,7237,Premium Economy,Return,United Kingdom
+1642,s,m,23,6444,Economy,Multi-City,France
+1643,m,m,39,5108,Premium Economy,Multi-City,Germany
+1644,s,f,59,5629,Economy,Multi-City,United Kingdom
+1645,s,f,61,6674,Premium Economy,Multi-City,United Kingdom
+1646,m,f,57,7633,Busniess Class,One Way,Italy
+1647,s,m,43,5861,Busniess Class,Multi-City,Spain
+1648,s,f,56,6791,Premium Economy,Multi-City,Germany
+1649,s,m,63,6310,Busniess Class,One Way,France
+1650,s,m,46,7712,Premium Economy,Return,United Kingdom
+1651,s,f,27,5609,Premium Economy,Multi-City,Spain
+1652,m,f,58,5418,Economy,Multi-City,Spain
+1653,s,f,22,5073,Economy,Return,Italy
+1654,m,f,52,5608,Busniess Class,Return,France
+1655,m,m,27,6913,Premium Economy,Return,France
+1656,s,m,60,6214,Busniess Class,Multi-City,Germany
+1657,s,m,40,5604,Economy,Return,Germany
+1658,m,m,52,6793,Busniess Class,One Way,Italy
+1659,m,f,46,5092,Busniess Class,Multi-City,France
+1660,m,m,39,5865,Premium Economy,Return,Italy
+1661,m,m,23,5495,Busniess Class,One Way,Italy
+1662,s,f,20,5286,Premium Economy,One Way,United Kingdom
+1663,s,m,45,7128,Busniess Class,One Way,Germany
+1664,m,f,52,5764,Busniess Class,Multi-City,United Kingdom
+1665,m,m,25,7104,Economy,Return,Italy
+1666,m,f,59,5141,Economy,One Way,Spain
+1667,m,m,36,6912,Economy,One Way,United Kingdom
+1668,m,f,44,7266,Premium Economy,One Way,Germany
+1669,m,m,37,7513,Premium Economy,One Way,Spain
+1670,m,f,45,6615,Busniess Class,Multi-City,Italy
+1671,s,m,46,5341,Busniess Class,Return,France
+1672,m,f,27,6832,Premium Economy,Return,United Kingdom
+1673,s,m,45,5394,Busniess Class,Multi-City,Spain
+1674,s,m,40,5406,Premium Economy,One Way,Italy
+1675,s,m,42,7661,Economy,One Way,Italy
+1676,m,m,20,5543,Economy,Return,France
+1677,m,f,23,5503,Premium Economy,One Way,Spain
+1678,m,f,60,6094,Economy,One Way,United Kingdom
+1679,m,m,49,7074,Economy,Multi-City,France
+1680,m,m,29,7294,Premium Economy,Multi-City,United Kingdom
+1681,s,f,64,5136,Busniess Class,Return,Germany
+1682,s,m,59,5354,Economy,One Way,Italy
+1683,m,m,50,6478,Busniess Class,Multi-City,Spain
+1684,m,f,29,5361,Busniess Class,Multi-City,Germany
+1685,s,f,42,7445,Economy,Return,United Kingdom
+1686,s,m,27,7726,Busniess Class,Multi-City,Italy
+1687,m,m,55,7416,Economy,Return,France
+1688,s,m,65,5775,Busniess Class,Return,Germany
+1689,m,m,42,6577,Busniess Class,Return,France
+1690,s,f,46,5782,Busniess Class,Multi-City,Italy
+1691,s,f,29,7899,Premium Economy,One Way,France
+1692,m,m,56,7143,Economy,Multi-City,United Kingdom
+1693,s,f,27,6291,Busniess Class,Multi-City,Spain
+1694,s,m,34,5031,Premium Economy,One Way,United Kingdom
+1695,s,m,44,6117,Premium Economy,Multi-City,Italy
+1696,m,f,41,5629,Busniess Class,Return,Italy
+1697,s,f,31,5034,Premium Economy,Return,Spain
+1698,m,f,45,7164,Premium Economy,Return,Spain
+1699,s,f,26,5240,Premium Economy,Return,Italy
+1700,m,m,58,6185,Economy,Return,Italy
+1701,s,m,43,5692,Economy,One Way,Germany
+1702,s,f,36,7003,Busniess Class,Return,France
+1703,m,f,25,5586,Premium Economy,One Way,Italy
+1704,s,f,38,5572,Economy,One Way,Germany
+1705,s,m,37,5301,Busniess Class,One Way,Italy
+1706,s,m,53,5091,Premium Economy,One Way,France
+1707,s,m,57,5041,Economy,One Way,Italy
+1708,m,f,29,5067,Economy,One Way,Italy
+1709,m,m,42,7378,Busniess Class,Multi-City,Spain
+1710,s,f,53,7211,Busniess Class,One Way,Italy
+1711,s,f,33,6830,Economy,Multi-City,United Kingdom
+1712,m,m,43,6148,Economy,One Way,Spain
+1713,s,f,69,5717,Economy,Multi-City,United Kingdom
+1714,m,f,26,6527,Busniess Class,Multi-City,Spain
+1715,m,f,25,5658,Busniess Class,Multi-City,United Kingdom
+1716,s,m,59,5613,Premium Economy,Return,France
+1717,m,f,34,5669,Premium Economy,Multi-City,United Kingdom
+1718,m,f,20,5745,Economy,One Way,Germany
+1719,m,m,39,7417,Premium Economy,One Way,Germany
+1720,s,m,42,6909,Economy,Multi-City,Spain
+1721,m,m,35,7482,Busniess Class,Multi-City,Germany
+1722,s,m,54,6060,Economy,Return,United Kingdom
+1723,s,f,32,7517,Premium Economy,One Way,Germany
+1724,s,f,42,7760,Premium Economy,Return,Italy
+1725,s,m,51,6519,Premium Economy,Return,Italy
+1726,m,f,35,5709,Economy,One Way,Spain
+1727,m,m,60,5590,Premium Economy,Return,Italy
+1728,m,m,30,5505,Premium Economy,Multi-City,France
+1729,s,f,38,5006,Premium Economy,Return,Italy
+1730,m,m,48,5629,Premium Economy,One Way,Spain
+1731,m,f,58,6541,Economy,Multi-City,Italy
+1732,m,f,55,6721,Premium Economy,Return,Germany
+1733,m,f,22,5037,Busniess Class,Multi-City,Germany
+1734,m,f,58,7963,Economy,One Way,Germany
+1735,m,f,58,7942,Economy,Return,United Kingdom
+1736,s,m,37,7382,Busniess Class,Return,Spain
+1737,m,f,58,6355,Premium Economy,Return,Spain
+1738,s,m,39,7528,Economy,Return,France
+1739,s,m,35,7898,Busniess Class,Multi-City,France
+1740,s,m,63,6843,Busniess Class,Return,Germany
+1741,s,f,33,7218,Economy,One Way,Germany
+1742,s,f,46,5814,Premium Economy,One Way,Spain
+1743,s,f,45,6436,Premium Economy,Multi-City,United Kingdom
+1744,s,f,38,5309,Busniess Class,One Way,Italy
+1745,s,f,23,5990,Premium Economy,Return,Germany
+1746,s,f,38,6502,Economy,Multi-City,Italy
+1747,s,f,24,5734,Premium Economy,Multi-City,Spain
+1748,m,m,34,5466,Economy,One Way,United Kingdom
+1749,m,f,30,6364,Economy,Multi-City,Italy
+1750,m,f,31,7373,Premium Economy,Multi-City,United Kingdom
+1751,m,f,70,5739,Busniess Class,One Way,United Kingdom
+1752,s,f,30,7794,Economy,Return,Italy
+1753,s,m,42,7021,Premium Economy,Return,France
+1754,m,m,48,7174,Economy,Multi-City,Italy
+1755,m,f,64,5223,Economy,One Way,Spain
+1756,s,f,30,6607,Busniess Class,Multi-City,France
+1757,m,m,64,6609,Premium Economy,Multi-City,Italy
+1758,m,f,20,5753,Busniess Class,One Way,United Kingdom
+1759,s,f,55,6401,Busniess Class,Return,Germany
+1760,m,m,25,5304,Busniess Class,Multi-City,Germany
+1761,m,f,23,7371,Busniess Class,One Way,Germany
+1762,m,f,42,5528,Premium Economy,Multi-City,Germany
+1763,s,f,67,5424,Busniess Class,One Way,Italy
+1764,s,m,38,6926,Premium Economy,One Way,United Kingdom
+1765,s,m,66,5901,Economy,Return,Germany
+1766,s,m,24,7114,Economy,Return,Germany
+1767,s,m,34,5371,Busniess Class,Multi-City,Italy
+1768,m,m,67,5771,Busniess Class,Return,Spain
+1769,s,m,65,5706,Busniess Class,Multi-City,United Kingdom
+1770,s,f,50,6288,Economy,Return,France
+1771,s,m,32,7541,Busniess Class,Multi-City,Spain
+1772,s,f,32,7907,Economy,Return,Spain
+1773,m,m,62,6708,Busniess Class,Multi-City,United Kingdom
+1774,s,m,29,6081,Premium Economy,Multi-City,Spain
+1775,s,f,69,5808,Premium Economy,Return,Italy
+1776,s,m,37,5576,Economy,Return,France
+1777,m,m,45,5342,Busniess Class,Multi-City,Italy
+1778,s,m,40,6216,Premium Economy,One Way,Spain
+1779,s,f,61,7579,Economy,Return,Germany
+1780,s,f,61,7849,Premium Economy,Multi-City,Germany
+1781,m,f,53,7665,Premium Economy,Return,Italy
+1782,s,f,30,5774,Premium Economy,One Way,United Kingdom
+1783,m,f,52,6486,Economy,One Way,France
+1784,m,m,35,7137,Economy,Multi-City,Spain
+1785,s,m,65,5325,Busniess Class,One Way,Italy
+1786,s,f,34,6164,Busniess Class,Return,Italy
+1787,s,f,66,6402,Busniess Class,One Way,United Kingdom
+1788,s,m,42,7215,Busniess Class,Multi-City,Italy
+1789,s,m,69,6752,Busniess Class,Return,United Kingdom
+1790,s,m,34,7898,Busniess Class,One Way,Spain
+1791,s,f,49,6768,Busniess Class,Return,Germany
+1792,s,m,63,7745,Busniess Class,One Way,Spain
+1793,m,f,26,5607,Premium Economy,Return,Germany
+1794,s,f,27,5919,Busniess Class,One Way,Italy
+1795,m,f,38,5817,Economy,One Way,France
+1796,m,m,63,7975,Premium Economy,Multi-City,Italy
+1797,s,f,40,7077,Economy,One Way,Germany
+1798,s,f,51,5177,Busniess Class,Multi-City,Germany
+1799,s,f,33,6797,Premium Economy,Return,Germany
+1800,s,m,50,5042,Economy,Multi-City,Germany
+1801,m,m,41,6880,Busniess Class,Multi-City,Spain
+1802,m,f,68,6245,Busniess Class,Multi-City,Germany
+1803,s,m,69,7824,Economy,Multi-City,United Kingdom
+1804,s,f,61,6193,Premium Economy,Return,Spain
+1805,s,m,26,6238,Premium Economy,Return,Germany
+1806,m,f,45,7505,Premium Economy,Multi-City,Spain
+1807,m,f,52,6034,Economy,Multi-City,United Kingdom
+1808,s,m,69,5771,Economy,Return,Germany
+1809,m,m,21,7251,Busniess Class,Return,France
+1810,m,m,68,7753,Premium Economy,Return,United Kingdom
+1811,m,f,24,6338,Busniess Class,Return,Germany
+1812,s,f,27,5842,Economy,Multi-City,Germany
+1813,s,m,41,6535,Busniess Class,Multi-City,France
+1814,m,f,34,6244,Busniess Class,Return,Spain
+1815,m,f,56,5725,Busniess Class,Return,Spain
+1816,m,f,21,5928,Premium Economy,Multi-City,Germany
+1817,s,f,54,5941,Premium Economy,Multi-City,United Kingdom
+1818,m,m,69,5937,Busniess Class,One Way,France
+1819,s,m,43,7452,Premium Economy,Multi-City,United Kingdom
+1820,m,m,36,6905,Premium Economy,Multi-City,Germany
+1821,m,m,69,5613,Busniess Class,Multi-City,United Kingdom
+1822,s,f,51,7496,Premium Economy,Return,Spain
+1823,m,m,36,5921,Premium Economy,Return,Germany
+1824,s,f,22,6658,Premium Economy,Return,Italy
+1825,m,m,30,7332,Premium Economy,Multi-City,Italy
+1826,s,f,30,7233,Premium Economy,One Way,Spain
+1827,m,m,24,7017,Busniess Class,Multi-City,Italy
+1828,m,m,67,6399,Economy,One Way,Germany
+1829,m,f,29,5056,Premium Economy,One Way,Italy
+1830,s,f,47,6613,Premium Economy,One Way,Germany
+1831,m,m,23,5313,Busniess Class,Multi-City,Spain
+1832,m,m,46,5812,Busniess Class,One Way,Italy
+1833,s,m,32,6412,Economy,Multi-City,Spain
+1834,s,m,58,7845,Busniess Class,Return,Spain
+1835,m,f,40,7134,Busniess Class,Multi-City,Spain
+1836,s,m,33,5275,Economy,One Way,United Kingdom
+1837,s,f,43,6790,Premium Economy,Multi-City,France
+1838,m,m,58,7424,Premium Economy,Return,Italy
+1839,m,f,33,5320,Premium Economy,One Way,Spain
+1840,s,f,34,5717,Premium Economy,Multi-City,United Kingdom
+1841,m,f,32,6253,Busniess Class,Return,Germany
+1842,s,m,25,5399,Economy,Multi-City,Germany
+1843,m,f,48,6913,Busniess Class,Return,Italy
+1844,m,f,61,7716,Busniess Class,Multi-City,United Kingdom
+1845,s,f,20,5575,Premium Economy,Multi-City,Italy
+1846,s,f,65,7494,Busniess Class,One Way,Italy
+1847,s,m,64,6069,Premium Economy,One Way,Spain
+1848,m,f,53,6800,Economy,Return,Spain
+1849,m,f,68,7549,Economy,One Way,Italy
+1850,m,f,60,7689,Busniess Class,Multi-City,Germany
+1851,s,m,34,5646,Busniess Class,Multi-City,United Kingdom
+1852,s,m,39,6059,Economy,Multi-City,Germany
+1853,s,m,35,6602,Busniess Class,Return,Italy
+1854,s,f,58,7165,Premium Economy,One Way,Italy
+1855,m,f,41,5964,Premium Economy,One Way,France
+1856,s,f,22,5443,Economy,One Way,Spain
+1857,s,m,37,6215,Busniess Class,Return,France
+1858,m,m,57,6659,Economy,Return,Spain
+1859,m,m,37,7303,Economy,One Way,Spain
+1860,m,f,21,7552,Economy,Multi-City,France
+1861,s,m,36,7214,Premium Economy,Multi-City,France
+1862,m,f,26,6031,Busniess Class,One Way,Spain
+1863,s,m,38,6842,Economy,One Way,France
+1864,m,m,53,5160,Economy,Return,France
+1865,s,f,57,5397,Premium Economy,One Way,Germany
+1866,m,m,58,5312,Premium Economy,Multi-City,Spain
+1867,m,f,22,5743,Economy,One Way,Germany
+1868,s,m,42,7774,Economy,Multi-City,Spain
+1869,s,m,41,5816,Busniess Class,Return,United Kingdom
+1870,m,m,39,5017,Busniess Class,One Way,France
+1871,s,m,36,5069,Busniess Class,Return,Spain
+1872,s,m,70,7768,Busniess Class,One Way,Spain
+1873,s,m,28,6256,Premium Economy,Return,United Kingdom
+1874,m,f,69,5701,Economy,Return,France
+1875,m,f,69,5129,Premium Economy,Multi-City,United Kingdom
+1876,m,f,59,7650,Premium Economy,One Way,France
+1877,m,f,20,5044,Economy,One Way,Spain
+1878,s,m,31,6749,Economy,One Way,Italy
+1879,s,m,65,6710,Busniess Class,Multi-City,France
+1880,s,m,52,5049,Premium Economy,Multi-City,United Kingdom
+1881,s,m,58,6069,Economy,Multi-City,United Kingdom
+1882,s,m,37,6766,Busniess Class,Return,United Kingdom
+1883,m,f,43,6463,Busniess Class,Return,Germany
+1884,m,m,67,6957,Busniess Class,One Way,Germany
+1885,m,m,32,6289,Busniess Class,Return,Spain
+1886,s,m,66,5155,Busniess Class,Multi-City,Germany
+1887,s,m,25,7357,Premium Economy,One Way,United Kingdom
+1888,m,m,37,7725,Busniess Class,One Way,Spain
+1889,m,f,53,7948,Premium Economy,Multi-City,Germany
+1890,m,m,23,5657,Premium Economy,Multi-City,France
+1891,m,m,66,5368,Premium Economy,One Way,Germany
+1892,m,f,66,6937,Premium Economy,Return,France
+1893,m,f,31,6725,Busniess Class,One Way,France
+1894,s,f,45,6130,Premium Economy,Return,United Kingdom
+1895,s,m,24,6432,Busniess Class,Return,Germany
+1896,m,m,57,7430,Economy,Return,France
+1897,s,f,28,6047,Premium Economy,Return,Italy
+1898,m,f,62,5092,Premium Economy,One Way,France
+1899,s,f,67,6144,Economy,Return,France
+1900,s,f,44,7792,Busniess Class,Multi-City,United Kingdom
+1901,s,m,59,5153,Economy,Multi-City,Germany
+1902,m,m,50,5112,Busniess Class,Return,France
+1903,m,f,52,7464,Busniess Class,Return,Germany
+1904,s,m,28,5217,Premium Economy,Return,Germany
+1905,m,f,50,7925,Premium Economy,One Way,Spain
+1906,m,m,43,7014,Premium Economy,Return,United Kingdom
+1907,s,f,54,5552,Economy,Multi-City,United Kingdom
+1908,m,m,62,6057,Busniess Class,One Way,United Kingdom
+1909,s,f,63,5755,Busniess Class,One Way,United Kingdom
+1910,m,f,35,6834,Premium Economy,One Way,Italy
+1911,s,m,44,5376,Busniess Class,Multi-City,Spain
+1912,s,f,48,6750,Economy,One Way,Germany
+1913,s,m,27,5639,Premium Economy,One Way,United Kingdom
+1914,s,f,43,7966,Economy,One Way,Italy
+1915,s,f,46,6672,Economy,One Way,United Kingdom
+1916,s,f,34,7785,Busniess Class,Multi-City,Spain
+1917,s,f,51,7117,Economy,One Way,Italy
+1918,m,m,40,6031,Busniess Class,Return,Germany
+1919,m,f,28,6364,Premium Economy,Multi-City,Spain
+1920,s,f,38,7708,Busniess Class,One Way,Spain
+1921,s,m,49,5678,Economy,Return,Italy
+1922,s,f,28,5063,Busniess Class,Multi-City,Italy
+1923,m,f,51,6866,Premium Economy,Return,United Kingdom
+1924,m,f,55,7462,Busniess Class,One Way,Germany
+1925,s,m,51,7769,Economy,Return,France
+1926,s,f,44,7062,Economy,One Way,United Kingdom
+1927,m,f,61,5765,Busniess Class,Return,Germany
+1928,m,m,54,6816,Economy,One Way,Italy
+1929,s,m,44,7630,Busniess Class,One Way,Germany
+1930,s,m,29,7787,Economy,Multi-City,France
+1931,s,f,62,5329,Premium Economy,Return,United Kingdom
+1932,s,m,62,5974,Busniess Class,One Way,Italy
+1933,s,f,54,5303,Busniess Class,One Way,France
+1934,m,f,22,6227,Busniess Class,Return,Spain
+1935,m,m,28,6544,Economy,Multi-City,Germany
+1936,m,m,22,5709,Economy,One Way,Spain
+1937,m,f,25,6612,Busniess Class,Multi-City,Italy
+1938,s,f,44,5588,Busniess Class,Multi-City,United Kingdom
+1939,s,f,44,6252,Busniess Class,Multi-City,United Kingdom
+1940,m,m,47,7887,Premium Economy,Return,Spain
+1941,s,f,64,6034,Economy,One Way,Spain
+1942,m,f,50,6968,Economy,One Way,France
+1943,s,f,32,7605,Busniess Class,Return,Italy
+1944,m,m,37,6607,Economy,Return,United Kingdom
+1945,s,m,41,6960,Premium Economy,One Way,United Kingdom
+1946,m,m,54,6196,Busniess Class,Return,France
+1947,s,m,32,5849,Economy,Return,Italy
+1948,s,f,28,5708,Premium Economy,One Way,United Kingdom
+1949,s,m,58,7876,Premium Economy,Return,Italy
+1950,m,f,62,6040,Economy,Return,France
+1951,s,m,31,5249,Premium Economy,Return,France
+1952,s,m,27,5356,Economy,Multi-City,Germany
+1953,s,f,69,5284,Busniess Class,Multi-City,Italy
+1954,s,f,55,5012,Economy,One Way,France
+1955,s,m,68,7159,Premium Economy,Multi-City,France
+1956,s,f,45,6134,Busniess Class,Multi-City,France
+1957,s,m,44,6776,Premium Economy,Return,France
+1958,s,f,33,5517,Economy,One Way,France
+1959,s,m,24,6372,Busniess Class,One Way,Italy
+1960,s,f,70,6248,Economy,One Way,United Kingdom
+1961,m,m,63,5594,Premium Economy,One Way,Italy
+1962,s,m,32,5807,Busniess Class,Return,Italy
+1963,s,f,21,6236,Busniess Class,Multi-City,France
+1964,s,f,57,7396,Busniess Class,Return,Italy
+1965,s,f,32,7864,Premium Economy,One Way,Italy
+1966,m,m,56,6623,Busniess Class,Multi-City,France
+1967,m,m,25,6058,Busniess Class,Return,France
+1968,s,f,59,5360,Premium Economy,Multi-City,Spain
+1969,m,m,56,5758,Premium Economy,Return,Germany
+1970,s,m,44,6653,Premium Economy,One Way,Italy
+1971,s,m,20,6969,Economy,Return,France
+1972,m,f,60,5165,Economy,Return,Italy
+1973,s,m,54,5545,Economy,Multi-City,Germany
+1974,m,f,47,5359,Premium Economy,Multi-City,Germany
+1975,s,f,67,7600,Economy,One Way,United Kingdom
+1976,s,f,40,5017,Busniess Class,Multi-City,United Kingdom
+1977,s,m,54,6927,Busniess Class,One Way,France
+1978,s,m,35,7487,Busniess Class,One Way,France
+1979,m,m,21,6086,Busniess Class,Multi-City,United Kingdom
+1980,m,f,59,6182,Economy,Return,Italy
+1981,m,f,63,5255,Premium Economy,Return,United Kingdom
+1982,m,f,56,6770,Premium Economy,Multi-City,Italy
+1983,s,m,29,6814,Premium Economy,Return,France
+1984,s,f,58,7011,Premium Economy,Multi-City,United Kingdom
+1985,m,f,30,5980,Busniess Class,One Way,France
+1986,m,f,61,6182,Premium Economy,Return,France
+1987,m,m,66,5479,Busniess Class,Return,France
+1988,s,m,34,6637,Premium Economy,One Way,Italy
+1989,s,f,53,7589,Premium Economy,Return,France
+1990,m,m,43,5113,Busniess Class,Return,France
+1991,s,f,33,7934,Economy,Multi-City,Germany
+1992,m,f,22,5370,Economy,Multi-City,Italy
+1993,s,f,40,5799,Premium Economy,One Way,Germany
+1994,m,f,54,6507,Busniess Class,Multi-City,United Kingdom
+1995,s,f,20,5289,Economy,One Way,Spain
+1996,m,m,39,5459,Busniess Class,One Way,United Kingdom
+1997,m,f,53,6966,Premium Economy,One Way,Italy
+1998,m,f,36,6637,Premium Economy,One Way,Spain
